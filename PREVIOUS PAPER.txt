@@ -1,0 +1,7 @@
+[PREVIOUS PAPER] should be:
+
+
+Athanasios Tsanas, Max A. Little, Patrick E. McSharry, Lorraine O. Ramig (2009) collected data comparing features of speech in 42 individuals diagnosed [...]
+
+--------------------------------------------------------
+There is also one more paragraph breat in the data section
